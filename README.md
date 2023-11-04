@@ -6,11 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="64" align="right"/>
 
-# DbGate - (no)SQL database client
+# ARKANDbGate - نرم افزار چند سکویی مدیریت دیتابیس
 
-DbGate is cross-platform database manager. 
-It's designed to be simple to use and effective, when working with more databases simultaneously.
-But there are also many advanced features like schema compare, visual query designer, chart visualisation or batch export and import.
+ARKANDbGate یک نرم افزار مدیریت چند سکویی مدیریت دیتابیس است . 
+این نرم افزار به صورت opensource نخستین بار ساخته شد و شرکت ایکاد فناوری آرکان با حمایت از نرم افزار های آزاد فورک آن را چایگذین دیگر نرم افزار های مدیریت دیتابیس خود نمود. ازین رو شما می توانید به ما در فارسی سازی این نرم افزار کمک شایانی نمایید.
 
 DbGate is licensed under MIT license and is completely free.
 
